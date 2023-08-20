@@ -1,0 +1,11 @@
+numpy
+streamlit
+keras
+tensorflow
+matplotlib
+shutils
+scipy
+opencv-python
+Pillow
+Py-OS
+zip-files
